@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(138, 133, 133);
+    height: max-content;
+
+}
+
+
+header{
+    background-color: darkcyan;
+    height: 10vh;
+    padding-top: 2vh;
+    
+}
+
+
+main{
+    background-color: rgb(138, 133, 133);
+    height: 90vh;
+   
+
+    
+
+}
+main h1{
+    font-size: 20vh;
+    text-align: center;
+    padding-top: 30vh;
+ 
+}
